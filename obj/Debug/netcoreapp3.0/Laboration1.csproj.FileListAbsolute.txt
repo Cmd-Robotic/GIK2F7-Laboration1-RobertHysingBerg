@@ -1,0 +1,11 @@
+J:\UniversitetsGrejer\IT-Säkerhet År 2\GIK2F7\Laboration1\bin\Debug\netcoreapp3.0\Laboration1.exe
+J:\UniversitetsGrejer\IT-Säkerhet År 2\GIK2F7\Laboration1\bin\Debug\netcoreapp3.0\Laboration1.deps.json
+J:\UniversitetsGrejer\IT-Säkerhet År 2\GIK2F7\Laboration1\bin\Debug\netcoreapp3.0\Laboration1.runtimeconfig.json
+J:\UniversitetsGrejer\IT-Säkerhet År 2\GIK2F7\Laboration1\bin\Debug\netcoreapp3.0\Laboration1.runtimeconfig.dev.json
+J:\UniversitetsGrejer\IT-Säkerhet År 2\GIK2F7\Laboration1\bin\Debug\netcoreapp3.0\Laboration1.dll
+J:\UniversitetsGrejer\IT-Säkerhet År 2\GIK2F7\Laboration1\bin\Debug\netcoreapp3.0\Laboration1.pdb
+J:\UniversitetsGrejer\IT-Säkerhet År 2\GIK2F7\Laboration1\obj\Debug\netcoreapp3.0\Laboration1.csprojAssemblyReference.cache
+J:\UniversitetsGrejer\IT-Säkerhet År 2\GIK2F7\Laboration1\obj\Debug\netcoreapp3.0\Laboration1.AssemblyInfoInputs.cache
+J:\UniversitetsGrejer\IT-Säkerhet År 2\GIK2F7\Laboration1\obj\Debug\netcoreapp3.0\Laboration1.AssemblyInfo.cs
+J:\UniversitetsGrejer\IT-Säkerhet År 2\GIK2F7\Laboration1\obj\Debug\netcoreapp3.0\Laboration1.dll
+J:\UniversitetsGrejer\IT-Säkerhet År 2\GIK2F7\Laboration1\obj\Debug\netcoreapp3.0\Laboration1.pdb
